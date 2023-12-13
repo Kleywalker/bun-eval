@@ -1,7 +1,9 @@
 # bun-eval
 
 bun --revision: 1.0.17+5e60861c3
-node --version: v20.5.1bun --revision
+
+node --version: v20.5.1
+
 uname -mprs: Darwin 23.1.0 x86_64 i386
 
 To install dependencies:
